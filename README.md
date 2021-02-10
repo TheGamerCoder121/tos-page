@@ -3,7 +3,7 @@
 ## Notes
 This is made for <strong>Jake Hamblin's Paypal Website</strong>
 
-I will be making some changes to this to make it more web respnsive
+I will be making some changes to this to make it more web responsive
 
 ## Installation
 1. Make sure in Jake's config, the "tos" field is set the the proper page.
